@@ -34,7 +34,7 @@ La aplicación iniciará el monitoreo automático cada minuto (podes modificar e
 - **RegistroPrecio**: ID, precio, fecha/hora, componente asociado
 - **Historial**: Lista de registros de precios por componente
 
-## Ejemplos JSON
+## Ejemplos JSON necesarios para que el programa conozca donde buscar (leer atributos)
 
 [
 
