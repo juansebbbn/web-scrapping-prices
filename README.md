@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Aplicación Spring Boot que monitorea automáticamente los precios de componentes de computadora en diferentes tiendas online y alerta cuando encuentra ofertas.
+Aplicación Spring Boot que monitorea automáticamente los precios de componentes de computadora (Se puede generalizar a cualquier articulo, pero yo use componentes de pc) en diferentes tiendas online y alerta cuando encuentra ofertas.
 
 ## Funcionalidades
 
